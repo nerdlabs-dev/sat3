@@ -1,6 +1,6 @@
 # Sat3
-Name-Saturn3coin
-Ticker-SAT3
+# Name-Saturn3coin
+# Ticker-SAT3
 Block Target-1min
 Miturity-333 blocks 
 Adresses Base58-H & J
