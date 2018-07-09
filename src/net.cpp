@@ -1134,10 +1134,15 @@ void MapPort()
 static const char *strDNSSeed[][2] = {
                 {"Explorer", "159.65.37.70"},
                 {"Pool", "167.99.11.100"},
-                {"Lab US", "159.203.92.66"},
-                {"Lab UK", "178.128.40.35"},
                 {"Common", "138.68.6.192"},
                 {"Common", "167.99.193.143"},
+                {"Community-Node-Singapore", "206.189.33.55"},
+                {"Community-Node-Amsterdam", "188.166.73.116"},
+                {"Community-Node-UK", "178.128.40.35"},
+                {"Community-Node-US-E-2", "206.189.226.95"},
+                {"Community-Node-Frankfurt", "46.101.111.50"},
+                {"Community-Node-Toronto", "167.99.179.149"},
+                {"Community-Node-UK-2", "178.128.164.219"},
 
 };
 
