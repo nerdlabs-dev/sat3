@@ -79,8 +79,8 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     notificator(0),
     rpcConsole(0)
 {
-    setFixedSize(780, 475);
-    setWindowTitle(tr("Sat3 GUI-1.0"));
+    resize(780, 475);
+    setWindowTitle(tr("Sat3 GUI-1.1"));
 qApp->setStyleSheet("QMainWindow { background-image:url(:/images/res/images/background);}");
 //qApp->setStyleSheet("QMainWindow { background-color: #fcf5e7 }");
 
