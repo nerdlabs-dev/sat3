@@ -29,6 +29,7 @@ namespace Checkpoints
         boost::assign::map_list_of
            ( 0, hashGenesisBlock )
            ( 3, uint256("0x00000ae73336f8f038bcca6d3acf20b320fafc1491b02cb0306509bd289798af"))
+           ( 25000, uint256("0xda4b1e66033be2207918d5580b23fa05664cfe57730bdf8cec2dbf10eafabdab"))
            ;
 
 
