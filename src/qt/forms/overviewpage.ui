@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>783</width>
+    <width>796</width>
     <height>486</height>
    </rect>
   </property>
@@ -1122,6 +1122,12 @@
       </item>
       <item row="2" column="2">
        <widget class="QFrame" name="frame_4">
+        <property name="minimumSize">
+         <size>
+          <width>425</width>
+          <height>0</height>
+         </size>
+        </property>
         <property name="styleSheet">
          <string notr="true">background: transparent;</string>
         </property>
@@ -1139,7 +1145,7 @@
           <widget class="QListView" name="listTransactions">
            <property name="minimumSize">
             <size>
-             <width>380</width>
+             <width>415</width>
              <height>300</height>
             </size>
            </property>
