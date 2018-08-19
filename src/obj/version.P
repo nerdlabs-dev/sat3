@@ -1,4 +1,4 @@
 obj/version.o: version.cpp version.h clientversion.h \
- /home/user/testbox/Sat3/src/obj/build.h
+ /home/user/Documents/sat3/src/obj/build.h
 version.cpp version.h clientversion.h :
- /home/user/testbox/Sat3/src/obj/build.h :
+ /home/user/Documents/sat3/src/obj/build.h :
