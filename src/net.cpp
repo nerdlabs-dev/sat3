@@ -362,7 +362,7 @@ bool GetMyExternalIP(CNetAddr& ipRet)
         //  <?php echo $_SERVER["REMOTE_ADDR"]; ?>
         if (nHost == 1)
         {
-            addrConnect = CService("0.0.0.0",80); // checkip.dyndns.org
+            addrConnect = CService("91.198.22.70",80); // checkip.dyndns.org
 
             if (nLookup == 1)
             {
@@ -1132,18 +1132,12 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-                {"Community-Node-US-E", "159.203.92.66"},
-                {"Community-Node-US-W", "178.128.184.210"},
-                {"Community-Node-Bangladore", "139.59.39.255"},
-                {"Community-Node-Singapore", "206.189.33.55"},
-                {"Community-Node-Amsterdam", "188.166.73.116"},
-                {"Community-Node-UK", "178.128.40.35"},
-                {"Community-Node-US-E-2", "206.189.226.95"},
-                {"Community-Node-Frankfurt", "46.101.111.50"},
-                {"Community-Node-Toronto", "167.99.179.149"},
-                {"Community-Node-UK-2", "178.128.164.219"},
-                {"Explorer", "159.65.37.70"},
-                {"Pool", "167.99.11.100"}
+                {"Dave-Node", "sat3dave.nerdlabnet.xyz"},
+                {"HAL-9000", "sat3hal9000.nerdlabnet.xyz"},
+                {"Nlab-Net", "sat301.nerdlabnet.xyz"},
+                {"Nlab-Net", "sat302.nerdlabnet.xyz"},
+                {"Sat3-DNS", "sat3dns.nerdlabnet.xyz"},
+                {"NULL", "NULL"}
 };
 
 void ThreadDNSAddressSeed(void* parg)
