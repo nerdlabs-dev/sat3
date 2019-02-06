@@ -80,7 +80,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     rpcConsole(0)
 {
     resize(0, 0);
-    setWindowTitle(tr("Sat3 GUI-1.1"));
+    setWindowTitle(tr("Sat3 HAL9000"));
 qApp->setStyleSheet("QMainWindow { background-image:url(:/images/res/images/background);}");
 //qApp->setStyleSheet("QMainWindow { background-color: #fcf5e7 }");
 
