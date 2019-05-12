@@ -1164,6 +1164,12 @@
       </item>
       <item row="1" column="2" rowspan="3">
        <widget class="QFrame" name="frame_6">
+        <property name="minimumSize">
+         <size>
+          <width>150</width>
+          <height>0</height>
+         </size>
+        </property>
         <property name="styleSheet">
          <string notr="true">background: transparent;</string>
         </property>
