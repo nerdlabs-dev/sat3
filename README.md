@@ -15,3 +15,12 @@
 # 333 Coinbase maturity on minted blocks 
 # WebSite sat3coin.com
 # Explorer sat3coin.info
+
+Crypto-City Page
+https://www.crypto-city.com/index.php/sat3/
+
+NerdLabs Support
+
+https://www.crypto-city.com/index.php/nerdlabs001/
+or
+https://discord.gg/nzMdn6u
