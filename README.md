@@ -2,7 +2,7 @@
 # Name-Saturn3coin
 # Ticker-SAT3
 # Block Target-1min
-# Adresses Base58-H & J
+# Addresses Base58-H & J
 # 10 Conf Txes
 # POW/POS
 # POW-X13 Rewards
