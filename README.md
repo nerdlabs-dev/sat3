@@ -23,4 +23,4 @@ NerdLabs Support
 
 https://www.crypto-city.com/index.php/nerdlabs001/
 or
-https://discord.gg/nzMdn6u
+https://discord.gg/BXeA2vX
