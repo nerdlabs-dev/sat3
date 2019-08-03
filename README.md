@@ -13,8 +13,8 @@
 # POS Fixed 3.33 coins
 # 3.3 Day Min POS Eligibility
 # 333 Coinbase maturity on minted blocks 
-# WebSite sat3coin.com
-# Explorer sat3coin.info
+# WebSite https://www.crypto-city.com/index.php/sat3/info
+# Explorer http://sat3.nerdlabchains.xyz/
 
 Crypto-City Page
 https://www.crypto-city.com/index.php/sat3/
