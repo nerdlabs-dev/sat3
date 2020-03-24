@@ -1132,11 +1132,11 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
-                {"Dave-Node", "sat3dave.nerdlabnet.xyz"},
-                {"HAL-9000", "sat3hal9000.nerdlabnet.xyz"},
-                {"Nlab-Net", "sat301.nerdlabnet.xyz"},
-                {"Nlab-Net", "sat302.nerdlabnet.xyz"},
-                {"Sat3-DNS", "sat3dns.nerdlabnet.xyz"},
+                {"Nlabnode", "sat301.nerdlabs001.com"},
+                {"Nlabnode", "sat302.nerdlabs001.com"},
+                {"Nlabnode", "sat303.nerdlabs001.com"},
+                {"Nlabnode", "sat304.nerdlabs001.com"},
+                {"Nlabnode", "sat305.nerdlabs001.com"},
                 {"NULL", "NULL"}
 };
 
