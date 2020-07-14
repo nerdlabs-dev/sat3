@@ -1137,6 +1137,16 @@ static const char *strDNSSeed[][2] = {
                 {"Nlabnode", "sat303.nerdlabs001.com"},
                 {"Nlabnode", "sat304.nerdlabs001.com"},
                 {"Nlabnode", "sat305.nerdlabs001.com"},
+                {"Sat3DNS", "seed01.sat3coin.com.com"},
+                {"Sat3DNS", "seed02.sat3coin.com.com"},
+                {"Sat3DNS", "seed03.sat3coin.com.com"},
+                {"Sat3DNS", "seed04.sat3coin.com.com"},
+                {"Sat3DNS", "seed05.sat3coin.com.com"},
+                {"Sat3DNS", "seed06.sat3coin.com.com"},
+                {"Sat3DNS", "seed07.sat3coin.com.com"},
+                {"Sat3DNS", "seed08.sat3coin.com.com"},
+                {"Sat3DNS", "seed09.sat3coin.com.com"},
+                {"Sat3DNS", "seed10.sat3coin.com.com"},
                 {"NULL", "NULL"}
 };
 
