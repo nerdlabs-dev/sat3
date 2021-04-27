@@ -4,29 +4,45 @@ obj/rpcnet.o: rpcnet.cpp net.h mruset.h netbase.h serialize.h \
  json/json_spirit_value.h json/json_spirit_error_position.h \
  json/json_spirit_writer_template.h json/json_spirit_utils.h \
  checkpoints.h alert.h wallet.h main.h bignum.h script.h keystore.h \
- crypter.h key.h scrypt.h zerocoin/Zerocoin.h zerocoin/../serialize.h \
- zerocoin/../bignum.h zerocoin/../util.h zerocoin/Params.h \
- zerocoin/Coin.h zerocoin/Commitment.h zerocoin/Accumulator.h \
- zerocoin/AccumulatorProofOfKnowledge.h zerocoin/CoinSpend.h \
- zerocoin/SerialNumberSignatureOfKnowledge.h zerocoin/SpendMetaData.h \
- zerocoin/../uint256.h zerocoin/ParamGeneration.h hashblock.h uint256_t.h \
- sph_blake.h sph_types.h sph_bmw.h sph_groestl.h sph_jh.h sph_keccak.h \
- sph_skein.h sph_luffa.h sph_cubehash.h sph_shavite.h sph_simd.h \
- sph_echo.h sph_hamsi.h sph_fugue.h ui_interface.h walletdb.h db.h \
- base58.h
+ crypter.h key.h scrypt.h /home/lab/2025/sat3/src/obj/zerocoin/Zerocoin.h \
+ /home/lab/2025/sat3/src/obj/../serialize.h \
+ /home/lab/2025/sat3/src/obj/../bignum.h \
+ /home/lab/2025/sat3/src/obj/../util.h \
+ /home/lab/2025/sat3/src/obj/zerocoin/Params.h \
+ /home/lab/2025/sat3/src/obj/zerocoin/Coin.h \
+ /home/lab/2025/sat3/src/obj/zerocoin/Commitment.h \
+ /home/lab/2025/sat3/src/obj/zerocoin/Accumulator.h \
+ /home/lab/2025/sat3/src/obj/zerocoin/AccumulatorProofOfKnowledge.h \
+ /home/lab/2025/sat3/src/obj/zerocoin/CoinSpend.h \
+ /home/lab/2025/sat3/src/obj/zerocoin/SerialNumberSignatureOfKnowledge.h \
+ /home/lab/2025/sat3/src/obj/zerocoin/SpendMetaData.h \
+ /home/lab/2025/sat3/src/obj/../uint256.h \
+ /home/lab/2025/sat3/src/obj/zerocoin/ParamGeneration.h hashblock.h \
+ uint256_t.h sph_blake.h sph_types.h sph_bmw.h sph_groestl.h sph_jh.h \
+ sph_keccak.h sph_skein.h sph_luffa.h sph_cubehash.h sph_shavite.h \
+ sph_simd.h sph_echo.h sph_hamsi.h sph_fugue.h ui_interface.h walletdb.h \
+ db.h base58.h
 rpcnet.cpp net.h mruset.h netbase.h serialize.h :
  allocators.h version.h clientversion.h compat.h protocol.h uint256.h :
  addrman.h util.h sync.h bitcoinrpc.h json/json_spirit_reader_template.h :
  json/json_spirit_value.h json/json_spirit_error_position.h :
  json/json_spirit_writer_template.h json/json_spirit_utils.h :
  checkpoints.h alert.h wallet.h main.h bignum.h script.h keystore.h :
- crypter.h key.h scrypt.h zerocoin/Zerocoin.h zerocoin/../serialize.h :
- zerocoin/../bignum.h zerocoin/../util.h zerocoin/Params.h :
- zerocoin/Coin.h zerocoin/Commitment.h zerocoin/Accumulator.h :
- zerocoin/AccumulatorProofOfKnowledge.h zerocoin/CoinSpend.h :
- zerocoin/SerialNumberSignatureOfKnowledge.h zerocoin/SpendMetaData.h :
- zerocoin/../uint256.h zerocoin/ParamGeneration.h hashblock.h uint256_t.h :
- sph_blake.h sph_types.h sph_bmw.h sph_groestl.h sph_jh.h sph_keccak.h :
- sph_skein.h sph_luffa.h sph_cubehash.h sph_shavite.h sph_simd.h :
- sph_echo.h sph_hamsi.h sph_fugue.h ui_interface.h walletdb.h db.h :
- base58.h :
+ crypter.h key.h scrypt.h /home/lab/2025/sat3/src/obj/zerocoin/Zerocoin.h :
+ /home/lab/2025/sat3/src/obj/../serialize.h :
+ /home/lab/2025/sat3/src/obj/../bignum.h :
+ /home/lab/2025/sat3/src/obj/../util.h :
+ /home/lab/2025/sat3/src/obj/zerocoin/Params.h :
+ /home/lab/2025/sat3/src/obj/zerocoin/Coin.h :
+ /home/lab/2025/sat3/src/obj/zerocoin/Commitment.h :
+ /home/lab/2025/sat3/src/obj/zerocoin/Accumulator.h :
+ /home/lab/2025/sat3/src/obj/zerocoin/AccumulatorProofOfKnowledge.h :
+ /home/lab/2025/sat3/src/obj/zerocoin/CoinSpend.h :
+ /home/lab/2025/sat3/src/obj/zerocoin/SerialNumberSignatureOfKnowledge.h :
+ /home/lab/2025/sat3/src/obj/zerocoin/SpendMetaData.h :
+ /home/lab/2025/sat3/src/obj/../uint256.h :
+ /home/lab/2025/sat3/src/obj/zerocoin/ParamGeneration.h hashblock.h :
+ uint256_t.h sph_blake.h sph_types.h sph_bmw.h sph_groestl.h sph_jh.h :
+ sph_keccak.h sph_skein.h sph_luffa.h sph_cubehash.h sph_shavite.h :
+ sph_simd.h sph_echo.h sph_hamsi.h sph_fugue.h ui_interface.h walletdb.h :
+ db.h base58.h :

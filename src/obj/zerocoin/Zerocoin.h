@@ -15,8 +15,6 @@
 
 #include <stdexcept>
 
-#include "hash.h"
-
 #define ZEROCOIN_DEFAULT_SECURITYLEVEL      80
 #define ZEROCOIN_MIN_SECURITY_LEVEL         80
 #define ZEROCOIN_MAX_SECURITY_LEVEL         80
@@ -50,7 +48,6 @@ public:
 
 #include "../serialize.h"
 #include "../bignum.h"
-typedef CBigNum Bignum; // zerocoin uses this type name
 #include "../util.h"
 #include "Params.h"
 #include "Coin.h"

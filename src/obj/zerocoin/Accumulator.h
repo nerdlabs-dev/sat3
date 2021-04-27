@@ -58,7 +58,7 @@ public:
 	 **/
 	void accumulate(const PublicCoin &coin);
 
-    CoinDenomination getDenomination() const;
+	const CoinDenomination getDenomination() const;
 	/** Get the accumulator result
 	 *
 	 * @return a Bignum containing the result.
