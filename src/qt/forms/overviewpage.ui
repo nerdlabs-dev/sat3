@@ -1801,7 +1801,7 @@
             <string>Github - Sourcecode , Binaries , Snapshots </string>
            </property>
            <property name="text">
-            <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Sat3Coin/sat3&quot;&gt;&lt;img src=&quot;:/images/res/images/github.png&quot;width=&quot;96&quot; height=&quot;96&quot;/&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+            <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/nerdlabs-dev/sat3&quot;&gt;&lt;img src=&quot;:/images/res/images/github.png&quot;width=&quot;96&quot; height=&quot;96&quot;/&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
            </property>
            <property name="scaledContents">
             <bool>false</bool>

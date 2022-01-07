@@ -80,7 +80,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     rpcConsole(0)
 {
     resize(0, 0);
-    setWindowTitle(tr("Sat3 HAL9000-333"));
+    setWindowTitle(tr("Sat3 1.4"));
 qApp->setStyleSheet("QMainWindow { background-image:url(:/images/res/images/background);}");
 //qApp->setStyleSheet("QMainWindow { background-color: #fcf5e7 }");
 
@@ -363,7 +363,7 @@ void BitcoinGUI::createMenuBar()
 void BitcoinGUI::createToolBars()
 {
     QToolBar *toolbar = addToolBar(tr("Tabs toolbar"));
-    toolbar->setIconSize(QSize(32,32));
+    toolbar->setIconSize(QSize(48,48));
     toolbar->setToolButtonStyle(Qt::ToolButtonTextBesideIcon);
     toolbar->addAction(overviewAction);
     toolbar->addAction(sendCoinsAction);
@@ -372,6 +372,7 @@ void BitcoinGUI::createToolBars()
     toolbar->addAction(addressBookAction);
 
     QToolBar *toolbar2 = addToolBar(tr("Actions toolbar"));
+    toolbar2->setIconSize(QSize(48,48));
     toolbar2->setToolButtonStyle(Qt::ToolButtonTextBesideIcon);
     toolbar2->addAction(exportAction);
 }
